@@ -33,5 +33,6 @@ A module for [MagicMirror²](https://github.com/MichMich/MagicMirror) that shows
 | timeFormat    | config.js | (int) `24` or `12`. Overrides settings in config.js |
 
 ## Collaborate
-
 Pull requests are welcome.
+## Donations
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SM9XRXUPPJM84&item_name=%40lavve+MagicMiror+Modules&currency_code=SEK) if you like my modules! <3
